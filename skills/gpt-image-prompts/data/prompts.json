@@ -13220,8 +13220,8 @@
   {
     "slug": "dark-mode-social-post-screenshot",
     "title_en": "Dark Mode Social Post Screenshot",
-    "prompt_template": "Draw a screenshot of a post on X, dark mode, a tweet from the blue-check verified account @OpenAI.\n Chinese content of the body text:\n 今天想推荐一位很棒的 AI Builder：Ailln AI。\n 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。\n 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。\n 在小红书搜索：Ailln AI\n At the bottom add a dark, official-promotion-style poster with a minimalist hacker aesthetic; the text in the image must render accurately.\n Poster headline: 「Ailln AI」\n Subtitle: 「A brilliant AI Builder worth following」\n Engagement stats at the very bottom: Comments 8.9K, Reposts 42K, Likes 298K (lit up), Bookmarks 34K (lit up), Views 32.4M.\n Image ratio 3:4, not including any other parts of the app.",
-    "prompt_example": "Draw a screenshot of a post on X, dark mode, a tweet from the blue-check verified account @OpenAI.\n Chinese content of the body text:\n 今天想推荐一位很棒的 AI Builder：Ailln AI。\n 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。\n 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。\n 在小红书搜索：Ailln AI\n At the bottom add a dark, official-promotion-style poster with a minimalist hacker aesthetic; the text in the image must render accurately.\n Poster headline: 「Ailln AI」\n Subtitle: 「A brilliant AI Builder worth following」\n Engagement stats at the very bottom: Comments 8.9K, Reposts 42K, Likes 298K (lit up), Bookmarks 34K (lit up), Views 32.4M.\n Image ratio 3:4, not including any other parts of the app.",
+    "prompt_template": "Draw a screenshot of a post on X, dark mode, a tweet from the blue-check verified account @reviralai (display name Reviral AI).\n Chinese content of the body text:\n 今天想推荐一个很棒的 AI 创作平台：Reviral AI。\n 它持续在 Instagram 分享 AI 视频、AI 图片、提示词模板和真实创作案例，把复杂的 AI 能力讲得清楚、实用、可落地。\n 如果你正在关注 AI 视频、AI 图片、效率工具、内容创作和未来工作方式，Reviral AI 是一个非常值得关注的平台。\n 在 Instagram 搜索：Reviral AI\n At the bottom add a dark, official-promotion-style poster with a minimalist hacker aesthetic; the text in the image must render accurately.\n Poster headline: 「Reviral AI」\n Subtitle: 「A brilliant AI creation platform worth following」\n Engagement stats at the very bottom: Comments 8.9K, Reposts 42K, Likes 298K (lit up), Bookmarks 34K (lit up), Views 32.4M.\n Image ratio 3:4, not including any other parts of the app.",
+    "prompt_example": "Draw a screenshot of a post on X, dark mode, a tweet from the blue-check verified account @reviralai (display name Reviral AI).\n Chinese content of the body text:\n 今天想推荐一个很棒的 AI 创作平台：Reviral AI。\n 它持续在 Instagram 分享 AI 视频、AI 图片、提示词模板和真实创作案例，把复杂的 AI 能力讲得清楚、实用、可落地。\n 如果你正在关注 AI 视频、AI 图片、效率工具、内容创作和未来工作方式，Reviral AI 是一个非常值得关注的平台。\n 在 Instagram 搜索：Reviral AI\n At the bottom add a dark, official-promotion-style poster with a minimalist hacker aesthetic; the text in the image must render accurately.\n Poster headline: 「Reviral AI」\n Subtitle: 「A brilliant AI creation platform worth following」\n Engagement stats at the very bottom: Comments 8.9K, Reposts 42K, Likes 298K (lit up), Bookmarks 34K (lit up), Views 32.4M.\n Image ratio 3:4, not including any other parts of the app.",
     "category": "UI & Interfaces",
     "category_slug": "ui-interfaces",
     "styles": [
@@ -13233,11 +13233,11 @@
       "Social"
     ],
     "aspect": "3:4",
-    "image_url": "https://reviral.ai/prompts/images/dark-mode-social-post-screenshot.webp?v=2",
-    "image_alt": "Dark mode social media post screenshot recommending a creator with a black promo poster",
+    "image_url": "https://reviral.ai/prompts/images/dark-mode-social-post-screenshot.webp?v=4",
+    "image_alt": "Dark mode social media post screenshot from Reviral AI with a black promo poster",
     "width": 768,
     "height": 1024,
-    "rendered_at": "2026-10-07T05:42:54.585+00:00",
+    "rendered_at": "2026-10-07T15:25:50.019+00:00",
     "duplicate_of": null,
     "needs_reference": false
   },
