@@ -1,6 +1,6 @@
 # GPT Image 2.5 Prompt Templates
 
-521 ready-to-use prompt templates for GPT Image 2.5; 440 of them come with an example picture rendered by [Reviral](https://reviral.ai) from that exact prompt (the rest need a reference photo or were refused by the model). Where a template has `[PLACEHOLDERS]`, swap in your own subject, brand, city or text.
+521 ready-to-use prompt templates for GPT Image 2.5; 483 of them come with an example picture rendered by [Reviral](https://reviral.ai) from that exact prompt (the rest need a reference photo or were refused by the model). Where a template has `[PLACEHOLDERS]`, swap in your own subject, brand, city or text.
 
 ## How to use
 
