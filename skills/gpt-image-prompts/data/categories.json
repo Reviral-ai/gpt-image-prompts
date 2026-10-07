@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "ui-interfaces",
+    "name": "UI & Interfaces",
+    "description": "Apps, websites, dashboards, social screenshots, and product interfaces.",
+    "case_count": 68
+  },
+  {
+    "slug": "charts-infographics",
+    "name": "Charts & Infographics",
+    "description": "Infographics, knowledge maps, technical explainers, and structured diagrams.",
+    "case_count": 45
+  },
+  {
+    "slug": "posters-typography",
+    "name": "Posters & Typography",
+    "description": "Event posters, covers, type-driven visuals, and strong layout compositions.",
+    "case_count": 90
+  },
+  {
+    "slug": "products-e-commerce",
+    "name": "Products & E-commerce",
+    "description": "Product shots, detail pages, packaging, selling points, and ads.",
+    "case_count": 42
+  },
+  {
+    "slug": "brand-logos",
+    "name": "Brand & Logos",
+    "description": "Logos, identity systems, brand touchpoints, and campaign visuals.",
+    "case_count": 27
+  },
+  {
+    "slug": "architecture-spaces",
+    "name": "Architecture & Spaces",
+    "description": "Architecture renders, interiors, city maps, and spatial concepts.",
+    "case_count": 11
+  },
+  {
+    "slug": "photography-realism",
+    "name": "Photography & Realism",
+    "description": "Portraits, phone photography, film texture, and commercial photography.",
+    "case_count": 77
+  },
+  {
+    "slug": "illustration-art",
+    "name": "Illustration & Art",
+    "description": "Illustration, art styles, material experiments, and decorative images.",
+    "case_count": 56
+  },
+  {
+    "slug": "characters-people",
+    "name": "Characters & People",
+    "description": "Character design, pose references, cards, and 3D toys.",
+    "case_count": 31
+  },
+  {
+    "slug": "scenes-storytelling",
+    "name": "Scenes & Storytelling",
+    "description": "Storyboards, narrative scenes, livestream frames, and worldbuilding.",
+    "case_count": 21
+  },
+  {
+    "slug": "history-classical-themes",
+    "name": "History & Classical Themes",
+    "description": "Classical scrolls, historical figures, traditional themes, and poetry visuals.",
+    "case_count": 16
+  },
+  {
+    "slug": "documents-publishing",
+    "name": "Documents & Publishing",
+    "description": "White papers, manuals, encyclopedic plates, and publishing layouts.",
+    "case_count": 11
+  },
+  {
+    "slug": "other-use-cases",
+    "name": "Other Use Cases",
+    "description": "Creative experiments, special tasks, mixed workflows, and practical cases.",
+    "case_count": 26
+  }
+]
