@@ -1,0 +1,154 @@
+[
+  {
+    "id": "3d",
+    "title": "3D",
+    "keywords": [
+      "3d",
+      "toy",
+      "render",
+      "玩具"
+    ]
+  },
+  {
+    "id": "architecture",
+    "title": "Architecture",
+    "keywords": []
+  },
+  {
+    "id": "brand",
+    "title": "Brand",
+    "keywords": [
+      "brand",
+      "logo",
+      "identity",
+      "品牌",
+      "标志"
+    ]
+  },
+  {
+    "id": "character",
+    "title": "Character",
+    "keywords": [
+      "character",
+      "avatar",
+      "pose",
+      "角色",
+      "人物"
+    ]
+  },
+  {
+    "id": "characters",
+    "title": "Characters",
+    "keywords": []
+  },
+  {
+    "id": "charts",
+    "title": "Charts",
+    "keywords": []
+  },
+  {
+    "id": "classical",
+    "title": "Classical",
+    "keywords": [
+      "classical",
+      "dynasty",
+      "history",
+      "古风",
+      "历史"
+    ]
+  },
+  {
+    "id": "documents",
+    "title": "Documents",
+    "keywords": []
+  },
+  {
+    "id": "history",
+    "title": "History",
+    "keywords": []
+  },
+  {
+    "id": "illustration",
+    "title": "Illustration",
+    "keywords": [
+      "illustration",
+      "painting",
+      "watercolor",
+      "插画",
+      "绘画"
+    ]
+  },
+  {
+    "id": "infographic",
+    "title": "Infographic",
+    "keywords": [
+      "infographic",
+      "diagram",
+      "信息图",
+      "图解"
+    ]
+  },
+  {
+    "id": "other",
+    "title": "Other Use Cases",
+    "keywords": []
+  },
+  {
+    "id": "photography",
+    "title": "Photography",
+    "keywords": []
+  },
+  {
+    "id": "poster",
+    "title": "Poster",
+    "keywords": [
+      "poster",
+      "cover",
+      "typography",
+      "海报",
+      "封面"
+    ]
+  },
+  {
+    "id": "product",
+    "title": "Product",
+    "keywords": [
+      "product",
+      "packaging",
+      "商品",
+      "包装"
+    ]
+  },
+  {
+    "id": "products",
+    "title": "Products",
+    "keywords": []
+  },
+  {
+    "id": "realistic",
+    "title": "Realistic",
+    "keywords": [
+      "photo",
+      "realistic",
+      "camera",
+      "写真",
+      "写实"
+    ]
+  },
+  {
+    "id": "scenes",
+    "title": "Scenes",
+    "keywords": []
+  },
+  {
+    "id": "ui",
+    "title": "UI",
+    "keywords": [
+      "ui",
+      "interface",
+      "dashboard",
+      "界面",
+      "截图"
+    ]
+  }
+]
