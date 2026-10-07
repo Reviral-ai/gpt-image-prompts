@@ -1,0 +1,13 @@
+{
+  "name": "gpt-image-prompts",
+  "version": "1.0.0",
+  "description": "521 tested GPT Image 2.5 prompt templates by Reviral, with example pictures, a keyword finder and one-click links to generate them.",
+  "author": {
+    "name": "Reviral AI",
+    "url": "https://reviral.ai"
+  },
+  "homepage": "https://reviral.ai/prompts",
+  "repository": "https://github.com/Reviral-ai/gpt-image-prompts",
+  "license": "MIT",
+  "keywords": ["gpt-image-2-5", "prompt-templates", "ai-image-prompts", "agent-skill", "reviral"]
+}

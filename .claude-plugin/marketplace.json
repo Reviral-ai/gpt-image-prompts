@@ -1,0 +1,21 @@
+{
+  "name": "reviral",
+  "owner": {
+    "name": "Reviral AI"
+  },
+  "metadata": {
+    "description": "Agent skills by Reviral AI.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gpt-image-prompts",
+      "source": "./",
+      "description": "521 tested GPT Image 2.5 prompt templates by Reviral, with example pictures and one-click links to generate them.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/gpt-image-prompts"
+      ]
+    }
+  ]
+}
